@@ -1,5 +1,10 @@
-### Hi there 👋
+<h1 align = center>Hi there, I'm Egor 👋</h1>
+<h3 align=center>Computer science student from ITMO University</h3>
 
+- 🌱 I’m currently learning Python, Java and Machine Learning
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Egas88)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Egas88/Egas88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
