@@ -1,7 +1,7 @@
 <h1 align = center>Hi there, I'm Egor 👋</h1>
 <h3>About me:</h3>
 
-- I'm Computer Science Stude3nt from ITMO University
+- I'm Computer Science Student from ITMO University
 - I’m currently learning Python, Java and Machine Learning
 
 <h3>Languages and Tools:</h3>
